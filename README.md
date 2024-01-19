@@ -9,7 +9,7 @@ ThingSpeak channel link: https://thingspeak.com/channels/2405757
 
 -The actual circuit schematic looks like this:
 
-<img src="https://github.com/Helen-Gao19/SIOT_Posture_Monitoring/blob/main/actual%20schematics.jpg" width="300" height="600">
+<img src="https://github.com/Helen-Gao19/SIOT_Posture_Monitoring/blob/main/actual%20schematics.jpg" width="300" height="400">
 
 -The device is attached to the chest of the test subject, powered using a portable power bank.
 
@@ -17,3 +17,4 @@ ThingSpeak channel link: https://thingspeak.com/channels/2405757
 
 ## ThingSpeak Channel Display:
 
+<img src="https://github.com/Helen-Gao19/SIOT_Posture_Monitoring/blob/main/thingspeak.PNG" width="300" height="400">
