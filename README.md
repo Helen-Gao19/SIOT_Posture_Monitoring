@@ -17,4 +17,4 @@ ThingSpeak channel link: https://thingspeak.com/channels/2405757
 
 ## ThingSpeak Channel Display:
 
-<img src="https://github.com/Helen-Gao19/SIOT_Posture_Monitoring/blob/main/thingspeak.PNG" width="300" height="400">
+<img src="https://github.com/Helen-Gao19/SIOT_Posture_Monitoring/blob/main/thingspeak.PNG" width="350" height="400">
